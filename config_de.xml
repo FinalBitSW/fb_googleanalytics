@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>fb_googleanalytics</name>
+    <displayName><![CDATA[Google Analytics]]></displayName>
+    <version><![CDATA[3.0.4]]></version>
+    <description><![CDATA[Mit Google Analytics erhalten Sie Einsicht in wichtige Kennziffern zu Ihren Kunden.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[Möchten Sie Google Analytics wirklich löschen? Sie verlieren so alle Daten, die mit diesem Modul verknüpft sind.]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

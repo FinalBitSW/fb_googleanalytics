@@ -1,0 +1,19 @@
+{
+	"name" : "fb_googleanalytics",
+	"description" : "PrestaShop module fb_googleanalytics",
+	"homepage" : "http://www.finalbit.ch",
+	"license" : "MIT",
+	"authors" : [{
+			"email" : "service@finalbit.ch",
+			"name" : "FinalBit"
+		}
+	],
+	"require" : {
+		"php" : ">=5.4.0"
+	},
+	"config" : {
+		"preferred-install" : "dist"
+	},
+	"type" : "prestashop-module",
+	"support" : {}
+}
