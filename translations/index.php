@@ -1,8 +1,9 @@
 <?php
 /**
- * Copyright © 2017 FinalBit Solution. All rights reserved.
- * http://www.finalbit.ch
- * See LICENSE.txt for license details.
+ * Copyright ï¿½ 2017 -2018 FinalBit Solution. All rights reserved.
+ * @author FinalBit
+ * @copyright FinalBit - http://www.finalbit.ch
+ * @license See LICENSE.txt for license details.
  */
 
 header('Expires: Mon, 26 Jul 1998 05:00:00 GMT');
