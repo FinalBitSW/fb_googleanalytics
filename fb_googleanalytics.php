@@ -1,6 +1,7 @@
 <?php
 /**
  * Copyright © 2017 FinalBit Solution. All rights reserved.
+ * @author FinalBit
  * http://www.finalbit.ch
  * See LICENSE.txt for license details.
  */
@@ -21,7 +22,7 @@ class Fb_Googleanalytics extends Module
     {
         $this->name = 'fb_googleanalytics';
         $this->tab = 'analytics_stats';
-        $this->version = '1.0.2';
+        $this->version = '1.0.3';
         $this->ps_versions_compliancy = array('min' => '1.7.0.0', 'max' => _PS_VERSION_);
         $this->author = 'FinalBit';
         $this->module_key = 'fd2aaefea84ac1bb512e6f1878d990b8';
