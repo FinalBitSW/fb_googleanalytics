@@ -35,3 +35,19 @@
     ga('require', 'ec');
 </script>
 {/literal}
+
+{literal}
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="{/literal}https://www.googletagmanager.com/gtag/js?id={$gaAccountId|escape:'htmlall':'UTF-8'}">{literal}</script>
+<script>
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+{/literal}
+
+ gtag('config', '{$gaAccountId|escape:'htmlall':'UTF-8'}');
+
+{literal}
+</script>
+{/literal}
