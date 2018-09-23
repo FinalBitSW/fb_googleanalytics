@@ -3,7 +3,7 @@
  * http://www.finalbit.ch
  * See LICENSE.txt for license details.
  *}
-
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">  
 <div class="panel">
 	<div class="row" id="google_analytics_top">
 		<div class="col-lg-6">

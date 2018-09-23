@@ -5,6 +5,7 @@
  * @copyright FinalBit - http://www.finalbit.ch
  * @license See LICENSE.txt for license details.
  */
+
 if (!defined('_PS_VERSION_')) {
     exit;
 }
