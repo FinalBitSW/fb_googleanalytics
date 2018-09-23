@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright © 2017 FinalBit Solution. All rights reserved.
+ * Copyright ï¿½ 2017 -2018 FinalBit Solution. All rights reserved.
  * @author FinalBit
  * @copyright FinalBit - http://www.finalbit.ch
  * @license See LICENSE.txt for license details.
