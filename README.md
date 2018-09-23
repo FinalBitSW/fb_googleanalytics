@@ -1,10 +1,12 @@
 # FinalBit Google Analytics
 Gain clear insights into important metrics about your customers, using Google Analytics.
 
-There is no doubt that ìGoogle Analyticsî can be extremely beneficial tool. By utilizing this tool, we can easily and with no cost follow the information regarding most important performance indicators: visitor flow, time on site, the ratio between new and frequent visitors, etc.
+There is no doubt that ‚ÄúGoogle Analytics‚Äù can be extremely beneficial tool. By utilizing this tool, we can easily and with no cost follow the information regarding most important performance indicators: visitor flow, time on site, the ratio between new and frequent visitors, etc.
 Now you can follow information not just about visitors, but also about orders and products, which is extremely important for your online shop.
-With ìFinalBit - Google Analyticsî tool you can easily track and analyze purchase data by using Google product. By utilizing product ID in Google system you can connect them with product brands and categories.
-ìFinalBit - Google Analyticsî is one of the most up-to-date tools, which means that you will be able to keep up with the most developed technologies.
+
+With ‚ÄúFinalBit - Google Analytics‚Äù tool you can easily track and analyze purchase data by using Google product. By utilizing product ID in Google system you can connect them with product brands and categories.
+
+‚ÄúFinalBit - Google Analytics‚Äù is one of the most up-to-date tools, which means that you will be able to keep up with the most developed technologies.
 
 ## About
 Google E-commerce is a Prestashop module for sending data to Google Analytics.
