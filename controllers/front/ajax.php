@@ -2,6 +2,7 @@
 /**
  * Copyright © 2017 FinalBit Solution. All rights reserved.
  * @author FinalBit
+ * @copyright FinalBit
  * http://www.finalbit.ch
  * See LICENSE.txt for license details.
  */
