@@ -2,9 +2,8 @@
 /**
  * Copyright © 2017 FinalBit Solution. All rights reserved.
  * @author FinalBit
- * @copyright FinalBit
- * http://www.finalbit.ch
- * See LICENSE.txt for license details.
+ * @copyright FinalBit - http://www.finalbit.ch
+ * @license See LICENSE.txt for license details.
  */
 
 class AdminGanalyticsAjaxController extends ModuleAdminController

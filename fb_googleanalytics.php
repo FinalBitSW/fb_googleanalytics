@@ -2,11 +2,9 @@
 /**
  * Copyright © 2017 FinalBit Solution. All rights reserved.
  * @author FinalBit
- * @copyright FinalBit
- * http://www.finalbit.ch
- * See LICENSE.txt for license details.
+ * @copyright FinalBit - http://www.finalbit.ch
+ * @license See LICENSE.txt for license details.
  */
-
 if (!defined('_PS_VERSION_')) {
     exit;
 }
