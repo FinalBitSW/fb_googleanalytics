@@ -5,7 +5,6 @@
  * @copyright FinalBit - http://www.finalbit.ch
  * @license See LICENSE.txt for license details.
  */
-header('Content-Type: text/html; charset=utf-8');
 header('Expires: Mon, 26 Jul 1998 05:00:00 GMT');
 header('Last-Modified: '.gmdate('D, d M Y H:i:s').' GMT');
 
